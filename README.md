@@ -13,9 +13,10 @@
 **NIM:** 312410332
 
 **Kelas:** TI.2A.A.4
+
 ---
 
-Instruksi Pratikum:
+## Instruksi Pratikum:
 
 ---
 <img width="586" height="129" alt="image" src="https://github.com/user-attachments/assets/2a08d821-9293-4cfe-a7d7-7480f46dac3b" />
