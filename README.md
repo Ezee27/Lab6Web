@@ -57,6 +57,9 @@ Kita perlu menyertakan file **CSS** di bagian `<head>` dan file **JavaScript** d
   </body>
 </html>
 ```
+Hasil di browsernya:
+---
+<img width="1130" height="231" alt="image" src="https://github.com/user-attachments/assets/3a62cfec-97e5-4b21-92c2-a28bf7d567d1" />
 
 ---
 
@@ -123,6 +126,9 @@ Bootstrap menyediakan berbagai style tombol.
 <button class="btn btn-success">Success</button>
 <button class="btn btn-danger">Danger</button>
 ```
+Hasil di browsernya:
+---
+<img width="1919" height="270" alt="image" src="https://github.com/user-attachments/assets/0c7ab131-3248-468d-bba2-cce891972ff9" />
 
 ---
 
@@ -157,6 +163,9 @@ Membuat navigasi *responsive* yang bisa *collapse* (menjadi menu hamburger di mo
   </div>
 </nav>
 ```
+Hasil di browsernya:
+---
+<img width="1919" height="319" alt="image" src="https://github.com/user-attachments/assets/6e5b6e4c-2b79-4628-ad62-924df62bb6d5" />
 
 ---
 
@@ -174,6 +183,9 @@ Card adalah *container* konten yang fleksibel, menggantikan *widget box* atau *b
   </div>
 </div>
 ```
+Hasil di browsernya:
+---
++<img width="1919" height="492" alt="image" src="https://github.com/user-attachments/assets/04602841-b122-407f-8612-68af2afa8de2" />
 
 ---
 
