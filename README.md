@@ -245,8 +245,14 @@ Hasil di browsernya:
 ---
 ## Code Program nya:
 
+Html
 ---
-<img width="2294" height="13782" alt="code222" src="https://github.com/user-attachments/assets/23a1d430-ab0f-4430-b8ad-23f452e48937" />
+<img width="2294" height="7094" alt="codee" src="https://github.com/user-attachments/assets/d25d683e-3eca-46c3-a4d5-20be45660396" />
+
+---
+Css
+---
+<img width="954" height="6866" alt="css" src="https://github.com/user-attachments/assets/3c20b074-58a0-4ff7-b997-d6378263b3e9" />
 
 ---
 ## Hasil di browsernya:
