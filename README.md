@@ -216,6 +216,12 @@ Ini jauh lebih mudah daripada men-*style* form manual seperti di Praktikum 5.
 
 <button type="submit" class="btn btn-primary">Kirim</button>
 ```
+Hasil di browsernya:
+---
+<img width="1919" height="743" alt="image" src="https://github.com/user-attachments/assets/bf85ea14-f7e4-418c-9e86-f8669aac077b" />
+
+---
+
 
 **Penjelasan Class:**
 
