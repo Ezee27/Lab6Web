@@ -230,5 +230,3 @@ Hasil di browsernya:
 * `.mb-3` → Memberi *margin-bottom: 3* (spasi).
 
 ---
-
-Apakah kamu mau saya bantu tambahkan bagian **preview hasil tampilan** (misalnya screenshot atau contoh hasil render HTML) biar README-nya lebih menarik saat diunggah ke GitHub?
